@@ -23,3 +23,5 @@
 ## 📁 Acesso ao projeto
 ## Clonar, abrir a aplicação com VSCode 
 ## 🛠️ Rodar Live Server ou similar
+
+![image](https://user-images.githubusercontent.com/96851872/166069709-96bb923b-e8ea-4863-ab6a-1ae56b9423ac.png)
