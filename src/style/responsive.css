@@ -1,0 +1,20 @@
+/* media query */
+@media screen and (max-width: 700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+    main .filme-principal .container .botao {
+        margin-top: 5px;
+        width: 190px;
+    }
+    main {
+        display: flex;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    main .filme-principal .descricao {
+        width: 50%;
+    }
+}
